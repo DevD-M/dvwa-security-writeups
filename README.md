@@ -9,7 +9,7 @@
 **Tester:** Devansh
 **Target:** DVWA (Damn Vulnerable Web Application)
 **Security Level:** Low
-**Date:** Day 2 — July 2026
+**Date:** July 2026
 
 ---
 
