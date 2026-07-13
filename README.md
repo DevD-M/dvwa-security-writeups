@@ -1,5 +1,8 @@
-# dvwa-security-writeups
-Hands-on security testing writeups from DVWA — SQLi, XSS, CSRF
+
+## Assessments
+- [SQL Injection](./DVWA_SQLi_Writeup.md)
+- [XSS (Reflected, Stored, DOM)](./DVWA_XSS_Writeup.md)
+- [CSRF](./DVWA_CSRF_Writeup.md)
 
 # DVWA Security Assessment — SQL Injection
 
@@ -169,6 +172,3 @@ A 5-second delay confirms the character; an immediate response rules it out. Thi
 
 ---
 
-## Next Steps
-- [ ] XSS (Reflected + Stored)
-- [ ] CSRF
